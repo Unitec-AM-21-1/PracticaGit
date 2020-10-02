@@ -1,2 +1,2 @@
 # PracticaGit
-Práctica sobre VCS y GIT 
+Práctica sobre VCS [Version Control Systems] y GIT 
